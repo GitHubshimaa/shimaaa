@@ -1,2 +1,3 @@
 # shimaaa
 for learning
+## NOtes
